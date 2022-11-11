@@ -55,6 +55,8 @@ except ZeroDivisionError as a:
 print("Thanks for using this code!")
 
 
+#datta kale
+
 
 
 
